@@ -11,6 +11,6 @@ export default [
     quotes: ["error", "single"]
   }},
   {
-    ignores: [".config/*"]
-}
+    ignores: ["eslint.config.mjs"]
+  }
 ];
