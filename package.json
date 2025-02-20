@@ -1,0 +1,27 @@
+{
+  "name": "eslint-practice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/555Viktor/eslint-practice#readme",
+  "bugs": {
+    "url": "https://github.com/555Viktor/eslint-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/555Viktor/eslint-practice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "eslint": "^9.20.1",
+    "globals": "^16.0.0",
+    "prettier": "3.5.1"
+  }
+}
